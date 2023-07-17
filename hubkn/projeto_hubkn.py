@@ -100,7 +100,7 @@ if st.button('Predict'):
         prediction_label = "unknown"
     
     st.success(f"Predição: {prediction_label}")
-    st.success(f"Probabilidade: {probability_value}%")
+    
 
 
 
